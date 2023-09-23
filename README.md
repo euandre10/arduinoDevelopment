@@ -1,6 +1,5 @@
 ## /Playing with LEDs/
 <h3>📃About:</h3>
-My first project with arduino. <br><br>
 I created it while i was studying more about how the arduino stuff works, and used the components that i bought, testing and playing with it.
 It's pretty simple, but it works for learn more about and, meanwhile, it's fun.<br>
 The code is all documented and it have the section <i>MAIN CONFIGS</i>, which you can configure all the project the way you want by changing only that section.
